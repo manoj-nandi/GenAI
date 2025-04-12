@@ -13,3 +13,5 @@ python-multipart
 sqlalchemy
 pytest
 PyPDF2 
+langchain_groq
+langchain_community
