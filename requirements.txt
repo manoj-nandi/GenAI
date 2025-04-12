@@ -1,0 +1,15 @@
+langchain
+langgraph
+groq
+python-dotenv
+streamlit
+chromadb
+pydantic
+beautifulsoup4
+requests
+python-jose
+passlib
+python-multipart
+sqlalchemy
+pytest
+PyPDF2 
